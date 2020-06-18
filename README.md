@@ -1,3 +1,5 @@
+**Please use the [main repository](https://github.com/Mangium/mangium/issues) for issues**
+
 # Mangium Installer
 A command line tool that clones Mangium and gets you ready in a matter of minutes
 
