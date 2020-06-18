@@ -1,0 +1,23 @@
+{
+  "name": "mangium-installer",
+  "version": "0.0.1",
+  "description": "A command line tool that clones Mangium and gets you ready in a matter of minutes",
+  "main": "src/checks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mangium/installer.git"
+  },
+  "author": "Floffah & Mangium Contributors",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Mangium/installer/issues"
+  },
+  "homepage": "https://github.com/Mangium/installer#readme",
+  "dependencies": {
+    "commander": "^5.1.0",
+    "inquirer": "^7.2.0"
+  }
+}
