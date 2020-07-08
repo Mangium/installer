@@ -1,12 +1,12 @@
+**Please use the [main repository](https://github.com/Mangium/mangium/issues) for issues**
+
 # Mangium Installer
 A command line tool that clones Mangium and gets you ready in a matter of minutes
 
 ## Usage
-If you are on windows, download the executable and run it in cmd, powershell, or git bash.
+Clone the repository with `git clone https://github.com/Mangium/installer.git` and run `node .` inside the cloned repository.
 
-If you are not on windows, as this is a command line tool, clone the repository into a new folder and run it using `node installer` (presuming your cwd is the parent directory of where you cloned the installer's repository)
-
-Both of these methods use the same parameters.
+This is a command line tool. It has two questions you need to answer (arrow keys & enter key)
 
 Bare in mind, the installer installs Mangium into a folder that it will create inside your current working directory.
 
